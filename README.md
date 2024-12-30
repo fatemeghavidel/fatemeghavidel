@@ -1,5 +1,5 @@
-- 🌱 I’m currently learning machine learning in
-- order to protect my planet 🌍🌎
+- 🌱 I’m currently learning machine learning in order to protect my planet
+ 🌍🌎
 
 <!---
 fatemeghavidel/fatemeghavidel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
