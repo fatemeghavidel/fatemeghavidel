@@ -1,6 +1,3 @@
-🌍🌎🌱💚
 
-<!---
-fatemeghavidel/fatemeghavidel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Using **AI** to build a better future for humanity on Earth should be a mission.  🌍🌎🌱💚
+
